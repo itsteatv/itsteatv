@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
-<h3 align="center">A Junior FrontEnd Developer</h3> [![github-header-image.png](https://i.postimg.cc/y65GdPdp/github-header-image.png)](https://postimg.cc/XXfL1999)
+<h3 align="center">A Junior FrontEnd Developer</h3> ([![github-header-image.png](https://i.postimg.cc/y65GdPdp/github-header-image.png)](https://postimg.cc/XXfL1999))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsteatv&label=Profile%20views&color=0e75b6&style=flat" alt="itsteatv" /> </p>
 
