@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript and then ReactJs**
 
-- 👯 I’m looking to collaborate on [DEV NIMA](https://github.com/DevNima-PG)
+- 👯 I’m looking to collaborate on [Amirhossein Forouhar](https://github.com/amirhosseinforouhar)
 
 - 📫 How to reach me **rezashow60@gmail.com**
 
