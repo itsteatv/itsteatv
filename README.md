@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">A Junior FrontEnd Developer</h3>
 
-<img src="https://github.com/itsteatv/itsteatv/blob/main/github-header-image.png">
+<img src="https://github.com/itsteatv/itsteatv/blob/main/banner-image.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsteatv&label=Profile%20views&color=0e75b6&style=flat" alt="itsteatv" /> </p>
