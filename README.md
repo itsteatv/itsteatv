@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">A Junior FrontEnd Developer</h3>
 
-<img src="https://github.com/itsteatv/itsteatv/blob/main/GitHub-Banner.png">
+<!-- <img src="https://github.com/itsteatv/itsteatv/blob/main/GitHub-Banner.png"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsteatv&label=Profile%20views&color=0e75b6&style=flat" alt="itsteatv" /> </p>
 
-- 🔭 I’m currently working on [Banking Dashboard](https://final-banking-dashboard.netlify.app/)
+<!-- - 🔭 I’m currently working on [Banking Dashboard](https://final-banking-dashboard.netlify.app/) -->
 
-- 🌱 I’m currently learning **Javascript and then ReactJs**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👯 I’m looking to collaborate on [Amirhossein Forouhar](https://github.com/amirhosseinforouhar)
 
