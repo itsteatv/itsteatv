@@ -3,7 +3,7 @@
 # Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'>
 <p align='center'>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&duration=3500&pause=1000&color=3537FF&center=true&vCenter=true&width=500&height=100&lines=Welcome+to+my+github)](https://git.io/typing-svg)
+<img src="https://github.com/itsteatv/itsteatv/blob/main/banner.png"></img>
   
 # About Me <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'>
 
