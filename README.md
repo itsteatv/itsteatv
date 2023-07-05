@@ -64,6 +64,11 @@ My aim is to craft engaging user interfaces using HTML, CSS, and JavaScript and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="70" width="94" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" width="94" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="70" width="94" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="70" alt="redux logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="70" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="70" alt="sass logo"  />
 </div>
 
 <br />
