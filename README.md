@@ -38,12 +38,12 @@ My aim is to craft engaging user interfaces using HTML, CSS, and JavaScript and 
 
 <br/>  
 
-<details><summary> Rapidfire </summary><table align="center"><tr><td valign="top" width="100%">
+<details><summary> More... </summary><table align="center"><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [profile card component](https://github.com/itsteatv/profile-card-component)  
+- 🔭 I’m currently working on [ReactJs Blog](https://github.com/itsteatv/Reactjs-Blog-App)  
   
 
-- 🌱 I’m currently learning ReactJs  
+- 🌱 I’m currently learning ReactJs
   
 
 - ❓ Ask me about anything related to Frontend ( ReactJs ) and related technologies  
