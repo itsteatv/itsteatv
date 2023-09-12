@@ -40,7 +40,7 @@ My aim is to craft engaging user interfaces using HTML, CSS, and JavaScript and 
 
 <details><summary> More... </summary><table align="center"><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [ReactJs Blog](https://github.com/itsteatv/Reactjs-Blog-App)  
+- 🔭 I’m currently working on [itsteatv hotel](https://github.com/itsteatv/itsteatv-hotel)  
   
 
 - 🌱 I’m currently learning ReactJs
