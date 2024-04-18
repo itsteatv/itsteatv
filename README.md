@@ -6,10 +6,3 @@
     Frameworks/Libraries/Tools: React.js, Redux, Firebase, Supabase, Tailwind, React Query
     Uptime: ?? years, ?? months, ?? days 
     
-    Contact:
-    -------
-    Instagram: itsteatv
-    Discord: itsteatv#7410
-    Reddit: itsteatv
-    X: itsteatv
-    
