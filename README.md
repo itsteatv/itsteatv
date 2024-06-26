@@ -1,8 +1,1 @@
-    Programming Languages: JavaScript, Typescript
-    OS: Windows 10, Android
-    IDE: Visual Studio Code
-    Version Control: GIT
-    Package Manager: NPM
-    Frameworks/Libraries/Tools: React.js, Redux, Firebase, Supabase, Tailwind, React Query
-    Uptime: ?? years, ?? months, ?? days 
-    
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/667c1078c19525099e87a994?variant=dark&roadmaps=frontend%2Creact" alt="roadmap.sh"/></a>
